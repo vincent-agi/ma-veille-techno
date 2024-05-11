@@ -29,3 +29,8 @@ Chaine youtube, podcast, formations sympatiques. Evan est un bon formateur il me
 C'est assez sympa je trouve. Seul petit bémol à mon appréciation, il parle un peu vite pour moi. Là où simon est rpesque lent, Evan est très rapide. Je recommande d'avoir quand même de bonnes bases avant de commencer avec lui.
 [https://www.youtube.com/@devtobecurious](https://www.youtube.com/@devtobecurious)
 
+### Cours vidéo angular débutant
+Pour l'annecdote, j'ai obtenu mon stage de fin d'étude avec ce tutoriel. Rien de très fantastique mais il a le mérite d'être très clair, complet et relativement lent dans les explications. C'est parfait pour les débutants.
+Juste pour info, cette ressource est payante [https://udemy.com/fr](https://udemy.com/fr). Mais cela vaut vraiment le coup. En plus c'est Simon Dieny qui le fait. Il s'agit d'un de mes formateurs préféré si ce n'est pas mon préféré déjà :)
+[https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/](https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/)
+
