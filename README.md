@@ -34,3 +34,45 @@ Pour l'annecdote, j'ai obtenu mon stage de fin d'étude avec ce tutoriel. Rien d
 Juste pour info, cette ressource est payante [https://udemy.com/fr](https://udemy.com/fr). Mais cela vaut vraiment le coup. En plus c'est Simon Dieny qui le fait. Il s'agit d'un de mes formateurs préféré si ce n'est pas mon préféré déjà :)
 [https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/](https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/)
 
+## ASP.Net
+
+### Code Maze
+De façon générale ce site est très orienté sur la pratique avec des cas d'utilisations très courants.
+Il a pour avantage de respecter un grands nombres de bonnes pratiques en .NET et plus généralement en C#.
+C'est en anglais mais il se lit très facilement.
+Les astuces et tutos sont postés sous forme de blog post.
+Je vous encoruage à utilier la barre de recherche pour aller plus vite dans le cas où vous avez un besoin précis.
+Sinon n'hésitez pas à vous perdre dans le contenu c'est très intéressant.
+[https://code-maze.com/](https://code-maze.com/)
+
+### Dev To Be Curious
+Cette ressource est dupliquée mais Evan de Dev To Be Curious fais aussi bien de l'angular que du .NET.
+Je prends donc le partie de vous le mettre aussi dans cette section.
+Attention, il est très bon bon et pédagogue mais il a tendance à aller vite sur les concepts de bases.
+Donc soyez à l'aise avec l'utilisation de C# et je vous recommande d'avoir quelques bases en .NET pour bien suivre le rythme.
+Je ne l'ai pas dit mais Evan possède un serveur Discord pour sa communauté de dev. C'est assez cool.
+[https://www.youtube.com/@devtobecurious](https://www.youtube.com/@devtobecurious)
+
+## Java (Java, Spring, Boot)
+
+### L'instructeur Java, Spring(Boot), Hybernate
+Vous commencez peut-être à le savoir j'aime apprendre de nouvelles choses en prenant mon temps.
+C'est pour cela qu'en général je prévilégie les ressources écrites plutôt que vidéos.
+Mais de temps en temps je tombe sur des petites pépite (Simon Dieny, Evan boissonnot) comme **Jean-Philippe EHRET**.
+Il s'agit d'un instructeur sur les technologies Java très pédagogue.
+Il image parfaitement les concepts (je n'ai jamais aussi bien vu l'intérêt de la JVM et aussi simplement qu'avec lui).
+Il aborde ses cours de façon un peu original. En commençant pour vous faire reproduire en code Java le framework Spring.
+Le but est simple : vous montrer l'avantage d'utiliser un framework et aussi de vous faire comprendre les fondements.
+[Jean-Philippe EHRET sur Udemy](https://www.udemy.com/course/bien-debuter-avec-spring-et-spring-boot/#instructor-1)
+
+
+## General
+
+### Axopen (Podcast)
+Il s'agit d'un podcast de veille technologique et d'actuallités du numérique.
+On trouve presque toujours la même équipe bien sympa et diversifiée dans ses opinions.
+Les débats sont animés (voire arbitrés des fois) par une animatrice que je trouve compétente.
+Les échanges sont disciplinés, où chacun peu donner son avis et argumenter.
+Pour moi il s'agit d'un super podcast que j'apprécie écouter quand j'ai quelques minutes/heures à perdre (par exemple dans le bus ou le train).
+[Société Axopen](https://www.axopen.com/)
+[Podcast Axopen](https://open.spotify.com/show/1DSrnkBhdl3NUIxwddnMed)
