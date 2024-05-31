@@ -7,6 +7,12 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 
 ## Angular
 
+### Angular love
+petit site sympa sous forme d'articles de blog portant sur l'actualité d'angular.
+il est assez nouveau pour moi et je ne l'ai pas encore explorer en détails mais il semble prometteur.
+pour moi cette ressource vient en complément du youtubeur @codeursenior et du site bonjour angular
+[Angular love](https://angular.love)
+
 ### (apprendre) Bonjour Angular
 Une fois bien avancé sur angular ce site me permet de me tenir à jour facilement. Bien que certains points parraissent un peu magique encore.
 [https://apprendre.bonjour-angular.com/](https://apprendre.bonjour-angular.com/)
