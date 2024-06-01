@@ -47,3 +47,12 @@ public getCars(): Observable<Car[]> {
 ```
 
 C'est que que vous promet [QuickType](https://quicktype.io/). Donnez lui la réponse du backend et il vous produira vos classes typescript.
+
+### Typescript's Getters Setters
+
+Je sais bien qu'en typescript nous pouvons accèder aux propriété de la classe.
+Mais j'avoue bien aimer le principe du Getter et Setter. Pourquoi ?
+Quand je veux le nom d'une personne de la classe `Person` peut être que j'aimerai que ce nom soit en `lowercase` et éviter d'utiliser un pipe.
+Quand j'utilise un setter c'est bien aussi pour appliquer une logique de tranformation et uniformisation de la donnée.
+Donc voici un plugin VSCode qui vous génére des Getters et Setters basiques.
+[getters-and-setters](https://marketplace.visualstudio.com/items?itemName=Wilson-Godoi.wg-getters-and-setters)
