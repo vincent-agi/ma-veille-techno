@@ -82,3 +82,7 @@ Les échanges sont disciplinés, où chacun peu donner son avis et argumenter.
 Pour moi il s'agit d'un super podcast que j'apprécie écouter quand j'ai quelques minutes/heures à perdre (par exemple dans le bus ou le train).
 [Société Axopen](https://www.axopen.com/)
 [Podcast Axopen](https://open.spotify.com/show/1DSrnkBhdl3NUIxwddnMed)
+
+## Outils
+
+[Mes outils de veille techno](./outils-veille-techno.md)
