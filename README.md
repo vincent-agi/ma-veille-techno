@@ -7,6 +7,14 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 
 ## Angular
 
+### Angular-Entreprise
+
+`Angular entreprise` est un super site web qui permet de dispenser de très bonnes pratiques avec ce framework ainsi que de mettre en garde contre les faux amis.
+J'ai par exemple flashé sur sur le post des design pattern present dans Angular.
+Cela reste avant tout un site commercial mais les ressources gratuites sont très utile.
+Je vous recommande de vous en inspirer si vous débutez sur Angular ou si vous souhaitez vous perfectionner.
+Je vous donne le lien [Angular Entreprise](https://angular-enterprise.com/fr/)
+
 ### Angular love
 petit site sympa sous forme d'articles de blog portant sur l'actualité d'angular.
 il est assez nouveau pour moi et je ne l'ai pas encore explorer en détails mais il semble prometteur.
