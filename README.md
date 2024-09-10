@@ -7,6 +7,10 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 
 ## Angular
 
+### Angular trainig
+
+les tutos, actus et workshops sont fabuleux
+
 ### Angular-Entreprise
 
 `Angular entreprise` est un super site web qui permet de dispenser de très bonnes pratiques avec ce framework ainsi que de mettre en garde contre les faux amis.
