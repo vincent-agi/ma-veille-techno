@@ -17,8 +17,7 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 
 ## Devops
 
-> Section en cours d'édition
-> Orientation plus axée sur Docker, CI/CD et tests
+[Blog et docs Stephane Robert](./devops/devSecOps.md)
 
 [Docker](./devops/docker.md)
 
@@ -29,5 +28,3 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 ## Général & Cultures IT
 
 [General & culture IT](./general/general.md)
-
-[Mes outils de veille techno](./outils-veille-techno.md)
