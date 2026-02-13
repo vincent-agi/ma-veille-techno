@@ -1,0 +1,1 @@
+chaine youtube de [xavki](https://youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd&si=XW15x8OTcVV1zCVZ) semble interessante pour apprendre docker et façon générale énormément de chose sur l'admin serveur, linux, l'infrastructure. j'ai pas encore trop regardé en détail mais c'est très prometteur comme ressources 
