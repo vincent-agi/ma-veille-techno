@@ -21,6 +21,10 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 
 [Docker](./devops/docker.md)
 
+## CSS (Style)
+
+[Harry Roberts](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+
 ## Outils
 
 [Outils](./outils/outils.md)
