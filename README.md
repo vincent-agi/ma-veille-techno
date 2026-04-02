@@ -32,3 +32,11 @@ Je me concentre principalement sur les technos comment **Angular**, **ASP.NET**,
 ## Général & Cultures IT
 
 [General & culture IT](./general/general.md)
+
+## Standardisation
+
+[Application 12 factors](https://12factor.net/fr/)
+
+[Refactoring](https://refactoring.guru/refactoring)
+
+[Code Smell](https://refactoring.guru/refactoring/smells)
