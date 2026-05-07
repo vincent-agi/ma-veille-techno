@@ -1,3 +1,15 @@
-chaine youtube de [xavki](https://youtube.com/@xavki?si=t-Aha_T2yS6FvRbG) semble interessante pour apprendre docker et façon générale énormément de chose sur l'admin serveur, linux, l'infrastructure. j'ai pas encore trop regardé en détail mais c'est très prometteur comme ressources.
+# Docker
+
+Chaine youtube de [xavki](https://youtube.com/@xavki?si=t-Aha_T2yS6FvRbG) semble interessante pour apprendre docker et façon générale énormément de chose sur l'admin serveur, linux, l'infrastructure. j'ai pas encore trop regardé en détail mais c'est très prometteur comme ressources.
 
 voici sa playlist pour [docker de xavki](https://youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd&si=XW15x8OTcVV1zCVZ)
+
+## Mode Lab
+
+[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
+
+[https://labex.io/fr/courses/docker-for-beginners](https://labex.io/fr/courses/docker-for-beginners)
+
+## Guides (Doc Docker officielle)
+
+[https://docs.docker.com/guides/](https://docs.docker.com/guides/)

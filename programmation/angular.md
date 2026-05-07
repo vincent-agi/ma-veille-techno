@@ -46,3 +46,7 @@ C'est assez sympa je trouve. Seul petit bémol à mon appréciation, il parle un
 Pour l'annecdote, j'ai obtenu mon stage de fin d'étude avec ce tutoriel. Rien de très fantastique mais il a le mérite d'être très clair, complet et relativement lent dans les explications. C'est parfait pour les débutants.
 Juste pour info, cette ressource est payante [https://udemy.com/fr](https://udemy.com/fr). Mais cela vaut vraiment le coup. En plus c'est Simon Dieny qui le fait. Il s'agit d'un de mes formateurs préféré si ce n'est pas mon préféré déjà :)
 [https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/](https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/)
+
+## Angular University
+
+[https://angular-university.io/](https://angular-university.io/)
