@@ -1,7 +1,9 @@
-Payant mais semble sympa. Je ne l'ai pas encore testé.
-[https://learnsql.fr/](https://learnsql.fr/)
+# Ressources SQL
 
+Ce document recense des ressources pour apprendre et approfondir le langage SQL et l'optimisation des requêtes.
 
-Exclusivement centré sur l'usage des indexes.
-Reès intéressant. Sujet particulièrement sous estimé, à mon sens.
-[https://use-the-index-luke.com/](https://use-the-index-luke.com/)
+## Plateformes d'apprentissage
+- [LearnSQL.fr](https://learnsql.fr/) : Plateforme payante pour apprendre SQL de façon interactive. Non testée mais recommandée.
+
+## Optimisation et indexation
+- [Use the Index, Luke!](https://use-the-index-luke.com/) : Guide avancé, en anglais, exclusivement centré sur l'utilisation des index en SQL. Sujet souvent sous-estimé et pourtant crucial pour la performance.

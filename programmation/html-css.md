@@ -1,17 +1,12 @@
-# Web Html, Css, JS (autres)
+# Ressources Web : HTML, CSS, JavaScript
 
-J'ai souvent du mal à trouver des ressources fiables dans le temps et de qualité suffisantes.
+Ce document regroupe des ressources fiables et de qualité pour progresser en développement web (HTML, CSS, JS).
 
-## Grafikart (développeur/tuto multi ressources)
+## Tutoriels vidéo
 
-[Grafikart](https://www.youtube.com/@grafikart) est un Youtuber spécialisé dans les tutos sur le développement. Il fait beaucoup de cours de qualités et plusieurs technologies porteuses.
+- [Grafikart (YouTube)](https://www.youtube.com/@grafikart) : Tutoriels complets sur le développement web, explications claires et exemples pratiques sur HTML, CSS, JavaScript et bien d'autres technologies.
 
-Aujourd'hui je le présente ici pour ces belles explications orientées Web (HTML, CSS, JS).
+## Pratique interactive
 
-Je me permets de mettre le lien de sa chaine youtube car c'est une mine d'or.
-
-## Apprentissage par la pratique (mode Labs)
-
-[learnhtmlcss](https://learnhtmlcss.online/)
-
-[learnjavascript.online](https://learnjavascript.online)
+- [Learn HTML & CSS](https://learnhtmlcss.online/) : Plateforme interactive pour apprendre les bases du HTML et du CSS par la pratique.
+- [Learn JavaScript Online](https://learnjavascript.online) : Exercices interactifs pour progresser en JavaScript.

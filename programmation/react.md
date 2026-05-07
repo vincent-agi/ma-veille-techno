@@ -1,8 +1,9 @@
 # Ressources React
 
+Ce document recense des ressources pour apprendre et pratiquer le développement avec React.
+
 ## Documentation officielle
-[https://react.dev/](https://react.dev/)
+- [React.dev](https://react.dev/) : Documentation officielle, tutoriels et guides pour tous niveaux.
 
-## Apprentissage par la pratique (Mode Labs)
-
-[react-tutorial](https://react-tutorial.app/)
+## Pratique interactive
+- [React Tutorial (Labs)](https://react-tutorial.app/) : Plateforme interactive pour apprendre React par la pratique.

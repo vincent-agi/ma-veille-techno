@@ -1,15 +1,14 @@
 # Docker
 
-Chaine youtube de [xavki](https://youtube.com/@xavki?si=t-Aha_T2yS6FvRbG) semble interessante pour apprendre docker et façon générale énormément de chose sur l'admin serveur, linux, l'infrastructure. j'ai pas encore trop regardé en détail mais c'est très prometteur comme ressources.
+Ce document regroupe des ressources pour apprendre et maîtriser Docker, de l'initiation à l'expertise.
 
-voici sa playlist pour [docker de xavki](https://youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd&si=XW15x8OTcVV1zCVZ)
+## Vidéos et chaînes YouTube
+- [Xavki (YouTube)](https://youtube.com/@xavki?si=t-Aha_T2yS6FvRbG) : Chaine très complète sur Docker, Linux, l'administration serveur et l'infrastructure. Ressource prometteuse et très riche.
+- [Playlist Docker de Xavki](https://youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd&si=XW15x8OTcVV1zCVZ) : Playlist dédiée à Docker.
 
-## Mode Lab
+## Pratique interactive
+- [Play with Docker](https://labs.play-with-docker.com/) : Labs interactifs pour expérimenter Docker en ligne.
+- [LabEx Docker](https://labex.io/fr/courses/docker-for-beginners) : Cours interactif pour débuter avec Docker.
 
-[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
-
-[https://labex.io/fr/courses/docker-for-beginners](https://labex.io/fr/courses/docker-for-beginners)
-
-## Guides (Doc Docker officielle)
-
-[https://docs.docker.com/guides/](https://docs.docker.com/guides/)
+## Documentation officielle
+- [Guides Docker](https://docs.docker.com/guides/) : Documentation officielle et guides pratiques.
