@@ -16,3 +16,8 @@ Ce document présente des outils utiles découverts lors de ma veille technologi
 - **QuickType** ([quicktype.io](https://quicktype.io/)) : Générateur de types TypeScript à partir de JSON. Idéal pour éviter l'usage abusif de `any` et garantir un typage strict dans vos applications front-end.
 
 - **Getters and Setters (VSCode)** ([extension](https://marketplace.visualstudio.com/items?itemName=Wilson-Godoi.wg-getters-and-setters)) : Extension VSCode pour générer automatiquement des getters et setters dans vos classes TypeScript. Pratique pour appliquer des transformations ou des validations lors de l'accès aux propriétés.
+
+## Git
+
+Par la pratique [ohmygit](https://ohmygit.org/)
+Ou encore [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR)
