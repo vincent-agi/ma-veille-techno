@@ -14,8 +14,9 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 - [Grafikart (design patterns)](https://grafikart.fr/) : Tutoriels vidéo sur les design patterns et l'architecture.
 
 ## Administration Système
-
+- [overthewire.org](https://overthewire.org/wargames/) : OverTheWire est une petite plateforme hyper sympa pour apprendre la cyber sécu. Même si les domaines sont limités, ceux proposés sont bien creusés. Pour apprendre les commandes Linux/Unix `Bandit` fait partie des références.
 - [AdminSys Linux](./admin-sys/linux.md) : Plateforme LabEx pour s'entraîner à l'administration Linux via des labs interactifs.
+- [Sys Admin scénario](https://sadservers.com/) : sadservers.com est une plateforme très sympa pour apprendre à résoudre des problèmes de SysAdmin sur des petites VM en ligne (donc 0 config préalable). Je l'ai testé, la pégagogie est ultra sympa et surtout réaliste dès qu'on monte sur les premiers niveaux.
 
 ## Programmation
 
@@ -50,6 +51,8 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 - [SQL](./programmation/sql.md) :
 	- [LearnSQL.fr](https://learnsql.fr/) : Plateforme d'apprentissage SQL (payant).
 	- [Use the Index, Luke!](https://use-the-index-luke.com/) : Guide avancé sur l'utilisation des index en SQL.
+ 	- [mystery.knightlab.com](https://mystery.knightlab.com/) : Un petit jeu de résolution de crime. On doit résoudre un crime en recherchant des informations des les tables d'une base de données avec du SQL. On y effectue des requêtes de difficultés progressives. On commence avec des SELECT très simples, puis on y ajoute nos clauses de filtrage.... jusqu'aux jointure et sub request. C'est hyper ludique.
+  - [sql-island.informatik.uni-kl.de](https://sql-island.informatik.uni-kl.de/) : Du même genre que celui au dessus mais, à mon avis, encore plus sympa et un peu mieux fait sur l'UX et l'expérience joueur. Même principe mais en jeu de survit sur une île après un crash d'avion.
 
 ## DevOps
 
@@ -60,6 +63,7 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 	- [Play with Docker](https://labs.play-with-docker.com/) : Labs interactifs Docker.
 	- [LabEx Docker](https://labex.io/fr/courses/docker-for-beginners) : Cours interactif Docker.
 	- [Guides officiels Docker](https://docs.docker.com/guides/) : Documentation officielle.
+    - [https://killercoda.com/] : Cours très variés sur le Ops (Docker, K8S) et d'autres notions annexes comme Git  ou Ansible.
 
 ## Outils
 
@@ -68,6 +72,8 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 	- [QuickType](https://quicktype.io/) : Générateur de types TypeScript à partir de JSON.
 	- [Getters and Setters (VSCode)](https://marketplace.visualstudio.com/items?itemName=Wilson-Godoi.wg-getters-and-setters) : Générateur de getters/setters pour TypeScript.
 	- [Spring Initializr](https://start.spring.io/) : Générateur de projets Spring Boot.
+ 	- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR) : Un projet bien sympa et visuel pour apprendre Git pas à pas avec de vraies explications sur le `pourquoi` du `comment`. J'adore !
+  - [ohmygit.org](https://ohmygit.org/) : Un autre concept pour apprendre Git que j'aime beaucoup. Un peu plus accessible que le précédent, mais ça c'est une question de perception selon moi.
 
 ## Général & Culture IT
 
@@ -80,9 +86,9 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 
 - [Application 12 factors](https://12factor.net/fr/) : Les 12 principes pour des applications modernes.
 - [Refactoring](https://refactoring.guru/refactoring) : Guide complet sur le refactoring.
+- [apichallenges.com](https://apichallenges.com/) : Pour apprendre par la pratique les conventions des APIs REST(ful).
 
 ## CSS (Style)
 
 - [Harry Roberts - BEMIT](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) : Article sur la convention de nommage BEMIT pour le CSS.
-
-[Code Smell](https://refactoring.guru/refactoring/smells)
+- [Code Smell](https://refactoring.guru/refactoring/smells)
