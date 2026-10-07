@@ -1,6 +1,22 @@
 # Ma veille techno
 
+> 🇬🇧 A curated, hand-picked list of the resources I use to keep up with software engineering (Angular, .NET, Java Spring Boot, Docker, software quality), and that I recommend to the developers I mentor.
+> 🇫🇷 Ma sélection de ressources pour faire de la veille technologique, que je recommande aux développeurs que j'accompagne.
+
+**Languages / Langues:** resources in French and English — the descriptions below are written in French. / ressources en français et en anglais, descriptions rédigées en français.
+
+**License / Licence:** MIT
+
+## Why / Pourquoi
+
+**🇬🇧** Good learning material is scattered and quickly outdated. This repository is the short list I actually use and trust: websites, blogs, YouTube channels, interactive labs, podcasts and documentation, grouped by topic. I keep it as a plain Markdown list so it stays easy to read, to fork and to maintain. It is also the list I point my mentees to (see [vincent-agi.fr](https://vincent-agi.fr) and [Dev Academy](https://dev-academy.vincent-agi.fr)).
+
+**🇫🇷** Les bonnes ressources sont dispersées et vieillissent vite. Ce dépôt est la liste courte que j'utilise vraiment et en laquelle j'ai confiance : sites web, blogs, chaînes YouTube, labs interactifs, podcasts et documentation, classés par thème. Je la garde en simple liste Markdown pour qu'elle reste facile à lire, à forker et à maintenir. C'est aussi la liste que je donne aux personnes que j'accompagne (voir [vincent-agi.fr](https://vincent-agi.fr) et [Dev Academy](https://dev-academy.vincent-agi.fr)).
+
+<!-- Original description kept below / description d'origine conservée ci-dessous -->
+
 ## Description
+
 Voici mes ressources pour faire de la veille technologique sur mes compétences.
 Vous y trouverez des sites web en français et en anglais, des vidéos YouTube, des documents, etc.
 Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, **Java Spring Boot**, **Docker**, et sur la qualité logicielle (CI/CD, tests, bonnes pratiques).
@@ -92,3 +108,27 @@ Je me concentre principalement sur les technos comme **Angular**, **ASP.NET**, *
 
 - [Harry Roberts - BEMIT](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) : Article sur la convention de nommage BEMIT pour le CSS.
 - [Code Smell](https://refactoring.guru/refactoring/smells)
+
+---
+
+## Contribute / Contribuer
+
+**🇬🇧** Suggestions are welcome: open an [issue](https://github.com/vincent-agi/ma-veille-techno/issues) or a pull request with the resource you recommend and a sentence on why it helped you. Please follow the existing format, one line per resource under the matching section (or the matching file in `concepts/`, `programmation/`, `devops/`, `admin-sys/`, `outils/`, `general/`):
+
+```markdown
+- [Resource name](https://example.com) : What it is and why it is worth your time.
+```
+
+Commits follow [Conventional Commits](https://www.conventionalcommits.org/) (for example `docs: add <resource> to Docker`).
+
+**🇫🇷** Les suggestions sont les bienvenues : ouvrez une [issue](https://github.com/vincent-agi/ma-veille-techno/issues) ou une pull request avec la ressource que vous recommandez et une phrase sur ce qu'elle vous a apporté. Merci de suivre le format existant, une ligne par ressource dans la section correspondante (ou dans le fichier correspondant de `concepts/`, `programmation/`, `devops/`, `admin-sys/`, `outils/`, `general/`) :
+
+```markdown
+- [Nom de la ressource](https://exemple.com) : Ce que c'est et pourquoi ça vaut le coup.
+```
+
+Les commits suivent les [Conventional Commits](https://www.conventionalcommits.org/) (par exemple `docs: add <ressource> to Docker`).
+
+## About / À propos
+
+Maintained by [Vincent AGI](https://vincent-agi.fr) — software engineer & mentor. / Maintenu par Vincent AGI, ingénieur logiciel et mentor.
